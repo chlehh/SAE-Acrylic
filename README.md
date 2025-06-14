@@ -1,9 +1,9 @@
-# 📶 Projet Analyse Réseau Wi-Fi avec Acrylic & Packet Tracer
+#  Projet Analyse Réseau Wi-Fi avec Acrylic & Packet Tracer
 
 Ce projet a été **le tout premier projet de l’année** dans notre formation BUT Réseaux & Télécommunications.  
 L’objectif était de **simuler un réseau Wi-Fi**, de **tester sa couverture**, et d’**analyser les performances** à l’aide de différents outils.
 
-## 🔧 Outils utilisés
+##  Outils utilisés
 
 - Cisco Packet Tracer → pour créer le plan et simuler le réseau
 -  Acrylic Heatmapper → pour générer la carte thermique
