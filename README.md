@@ -18,6 +18,17 @@ Personnellement, je me suis occupé de :
 - et de **l’analyse des débits** (vitesse montante/descendante, comparaison selon les emplacements)
 
 Les autres membres du groupe ont géré la collecte des données avec Acrylic, la carte thermique et la rédaction du rapport.
+## Compétences mobilisées 
+
+Ce projet a permis de mobiliser les compétences suivantes du référentiel R&T :
+
+AC11.02 | Comprendre l'architecture des systèmes numériques et les principes des communications (application aux réseaux WiFi).
+
+AC11.03 | Configurer les fonctions de base du réseau local (accès WiFi simulé dans Packet Tracer).
+
+AC11.05 | Identifier les dysfonctionnements ou zones à faible couverture et les signaler.
+
+AC11.06 | Installer et configurer un poste client pour tester le réseau simulé.
 
 ##  Ce qu’on a appris
 
@@ -29,11 +40,7 @@ Ce premier projet nous a permis de :
 - travailler en groupe avec une **bonne répartition des tâches**
 - rédiger un **rapport clair** en lien avec les résultats
 
-##  Contenu du projet
 
-- Fichier de simulation Packet Tracer (.pkt)
-- Carte thermique (image + fichier Acrylic)
-- Rapport complet en PDF
 
 ##  Bilan
 
