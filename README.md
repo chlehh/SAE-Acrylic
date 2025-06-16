@@ -1,8 +1,6 @@
-![image](https://github.com/user-attachments/assets/94fd87f3-b6f6-40b1-9dd8-88b74feabcc6) ![image](https://github.com/user-attachments/assets/e17ef979-d075-44fa-9ebd-1f42e39c6383) ![image](https://github.com/user-attachments/assets/b08ac49a-6ab5-4d0d-a0f4-01a344bbe0ec)
 
 
-
-
+![acrylic](https://github.com/user-attachments/assets/6230c422-b79c-4c83-8762-66261263b57a)
 
 #  Projet Analyse Réseau Wi-Fi avec Acrylic & Packet Tracer
 
