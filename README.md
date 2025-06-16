@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/d7796787-875d-4fd5-8be6-d07bbe04cfc3)
+
+
 #  Projet Analyse Réseau Wi-Fi avec Acrylic & Packet Tracer
 
 Ce projet a été **le tout premier projet de l’année** dans notre formation BUT Réseaux & Télécommunications.  
