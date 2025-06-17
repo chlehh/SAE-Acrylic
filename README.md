@@ -49,5 +49,5 @@ Ce premier projet nous a permis de :
 ##  Bilan
 
 Ce projet m’a beaucoup apporté :  
-j’ai découvert l’importance des **conditions physiques** dans un réseau Wi-Fi (obstacles, distance, interférences),  
+j’ai découvert l’importance des conditions physiques dans un réseau Wi-Fi (obstacles, distance, interférences),  
 et j’ai appris à travailler efficacement en équipe dès le début de l’année.
