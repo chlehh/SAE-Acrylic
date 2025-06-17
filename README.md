@@ -22,32 +22,20 @@ Personnellement, je me suis occupé de :
 - et de l’analyse des débits (vitesse montante/descendante, comparaison selon les emplacements)
 
 Les autres membres du groupe ont géré la collecte des données avec Acrylic, la carte thermique et la rédaction du rapport.
-## Compétences mobilisées 
 
-Ce projet a permis de mobiliser les compétences suivantes du référentiel R&T :
+## Compétences mobilisées et actions réalisées
 
 AC11.02 | Comprendre l'architecture des systèmes numériques et les principes des communications (application aux réseaux WiFi).
+→ J’ai étudié l’impact des obstacles, de la distance et des interférences sur les performances du réseau Wi-Fi.
 
 AC11.03 | Configurer les fonctions de base du réseau local (accès WiFi simulé dans Packet Tracer).
+→ J’ai conçu et configuré la topologie du réseau Wi-Fi dans Packet Tracer, en plaçant les points d’accès et en assurant leur paramétrage.
 
 AC11.05 | Identifier les dysfonctionnements ou zones à faible couverture et les signaler.
+→ J’ai analysé les débits en différents emplacements pour détecter les zones moins performantes.
 
 AC11.06 | Installer et configurer un poste client pour tester le réseau simulé.
-
-##  Ce qu’on a appris
-
-Ce premier projet nous a permis de :
-
-- configurer un réseau Wi-Fi
-- utiliser des outils professionnels comme Acrylic Heatmapper
-- interpréter des données réelles pour tirer des conclusions techniques
-- travailler en groupe avec une bonne répartition des tâches
-- rédiger un rapport clair en lien avec les résultats
-
-
+→ J’ai configuré les postes clients dans la simulation pour effectuer les tests de débit et valider le bon fonctionnement du réseau.
 
 ##  Bilan
-
-Ce projet m’a beaucoup apporté :  
-j’ai découvert l’importance des conditions physiques dans un réseau Wi-Fi (obstacles, distance, interférences),  
-et j’ai appris à travailler efficacement en équipe dès le début de l’année.
+Ce projet m’a beaucoup apporté. J’ai découvert l’importance des conditions physiques dans un réseau Wi-Fi (comme les obstacles, la distance ou les interférences) et j’ai appris à travailler efficacement en équipe dès le début de l’année. Même si j’étais concentré sur la création de la topologie dans Packet Tracer, j’aurais bien aimé participer à la réalisation de la heatmap avec mes camarades pour mieux observer le réseau de l’IUT.
