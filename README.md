@@ -11,7 +11,7 @@ L’objectif était de simuler un réseau Wi-Fi, de tester sa couverture, et d�
 
 - Cisco Packet Tracer → pour créer le plan et simuler le réseau
 -  Acrylic Heatmapper → pour générer la carte thermique
--  Speedtest & mesures manuelles → pour évaluer les débits et les pertes
+-  Speedtest & mesures manuelle → pour évaluer les débits et les pertes
 
 ##  Travail d’équipe
 
