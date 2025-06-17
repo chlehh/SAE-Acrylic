@@ -25,16 +25,20 @@ Les autres membres du groupe ont géré la collecte des données avec Acrylic, l
 
 ## Compétences mobilisées et actions réalisées
 
-AC11.02 | Comprendre l'architecture des systèmes numériques et les principes des communications (application aux réseaux WiFi).
+AC11.02 | Comprendre l'architecture des systèmes numériques et les principes des communications (application aux réseaux WiFi).       
+
 → J’ai étudié l’impact des obstacles, de la distance et des interférences sur les performances du réseau Wi-Fi.
 
-AC11.03 | Configurer les fonctions de base du réseau local (accès WiFi simulé dans Packet Tracer).
+AC11.03 | Configurer les fonctions de base du réseau local (accès WiFi simulé dans Packet Tracer).  
+
 → J’ai conçu et configuré la topologie du réseau Wi-Fi dans Packet Tracer, en plaçant les points d’accès et en assurant leur paramétrage.
 
-AC11.05 | Identifier les dysfonctionnements ou zones à faible couverture et les signaler.
+AC11.05 | Identifier les dysfonctionnements ou zones à faible couverture et les signaler.  
+
 → J’ai analysé les débits en différents emplacements pour détecter les zones moins performantes.
 
-AC11.06 | Installer et configurer un poste client pour tester le réseau simulé.
+AC11.06 | Installer et configurer un poste client pour tester le réseau simulé.  
+
 → J’ai configuré les postes clients dans la simulation pour effectuer les tests de débit et valider le bon fonctionnement du réseau.
 
 ##  Bilan
